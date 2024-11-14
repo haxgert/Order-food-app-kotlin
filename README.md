@@ -1,4 +1,4 @@
-![App Screenshot](https://github.com/haxgert/Order-food-app-kotlin/blob/master/Screenshots/banner.png)
+![App Screenshot](https://github.com/haxgert/Order-food-app-kotlin/blob/main/Screenshots/banner.png)
 ![](https://komarev.com/ghpvc/?username=Order-food-app-kotlin&color=55acb7&style=for-the-badge&logo=Github&label=Views)
 
 # 🍔 Order Food
@@ -87,9 +87,6 @@ Using Tools And Components Supported By Google And By Most Of The Android Develo
 
 
 ## 👨 Developed By 
-
- <img src="https://avatars.githubusercontent.com/u/62841905?s=400&u=6b1f97cf6a3dfe668719000f9686f5fe861f273a&v=4" width="70" align="left">
-
 
 **Gert Haxija**
 
